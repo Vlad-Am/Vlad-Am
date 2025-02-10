@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working developer<br>🤝 I’m can help everyone<br>🌱 I’m currently learning how to been python developer<br>💬 Ask me about all<br>⚡ I want everything to be clean after me
+🔭 I’m currently working fullstack python developer <br>🤝 I am here to help anyone who needs it<br>🌱 My currently stack is based on FastApi and Django <br>💬 I am a clean-up kind of person and I want everything to be in order after me.
 
 
 ## 🌐 Socials:
